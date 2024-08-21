@@ -1,5 +1,6 @@
 # demo-langchains-llm
-
+# down load file: https://huggingface.co/TheBloke/Mistral-7B-OpenOrca-GGUF/blob/main/mistral-7b-openorca.Q4_K_M.gguf
+# move file download folder models:
 # create file venv and packages cmd
   Step 1: python3 -m venv myvenv
   Step 2: 
@@ -10,13 +11,3 @@
   Step 4: pip install llama-cpp-python
 # start lang chains:  run file index_cpp.py
   Step 5: python index_cpp.py
-
-
-
-   
-# demo-langchains
-# demo-langchains
-# demo-langchains
-# demo-langchains
-# demo-langchains
-# demo-langchains

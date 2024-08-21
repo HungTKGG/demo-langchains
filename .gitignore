@@ -1,4 +1,1 @@
-*.bin
-*.gguf
-.DS_Store
-myvenv
+myenv
